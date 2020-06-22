@@ -1,1 +1,0 @@
-This is a Terraform project consisting of 2 parts- VPC and EC2
