@@ -31,7 +31,7 @@ resource "aws_security_group" "ec2_public_sg" {
     from_port     = 22
     protocol      = "TCP"
     to_port       = 22
-    cidr_blocks   = ["43.247.159.4/32"]       #My IP
+    cidr_blocks   = ["IP here"]       #My IP
   }
   egress {
     from_port     = 0
